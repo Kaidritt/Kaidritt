@@ -4,7 +4,6 @@
 
 <h1>
     <a href="https://github.com/kaidritt">
-     <img align="center" alt="Logo Kaidritt" width="36px" src="[URL to Kaidritt's Logo Here]"></a>
     <span>Kaidritt</span>
 </h1>
 
